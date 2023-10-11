@@ -1,0 +1,29 @@
+body {
+background-color: rgb(255, 195, 245);
+}
+
+h1,h2 {
+    font-family: fantasy;
+    letter-spacing: 5px;
+    font-weight: bold;
+}
+
+#content {
+    margin: 10px;
+    padding: 10px;
+    background-color: rgb(255, 72, 118);
+}
+
+.minor-section {
+    margin: 10px;
+    padding: 10px;
+    background-color: rgb(255, 72, 118);
+    width: 200px;
+
+}
+p {
+    font-family: fantasy;
+}
+ul {
+    font-family: fantasy;
+}
