@@ -1,0 +1,22 @@
+#content {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: solid 5px #f15785;
+    background-color: rgb(250, 200, 226);
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: pink;
+}
+.scriptoutput {
+    font: size 50px ;
+    font-weight:bold ;
+    padding: 10px;
+    margin: 20px;
+    background-color: aliceblue;
+    border: 5px solid #f15785;
+    text-align: center;
+}
+.scriptoutput #output {
+    color: #bd073e;
+}
