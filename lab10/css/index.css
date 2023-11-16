@@ -1,0 +1,28 @@
+body {
+    margin-right: 50%;
+    border:solid 5px #ff96b5;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(246, 190, 199);
+}
+#content {
+    padding: 10px;
+    font-family: sans-serif;
+    margin-bottom: 10px;
+    border: solid 10px #f86893;
+    background-color: rgb(250, 200, 226);
+}
+.text p {
+    display: inline-block;
+    max-width: 60%;
+    margin: 3px;
+    padding: 5px 10px;
+    border-radius: 15px;
+    background-color: rgb(255, 154, 184);
+    color: white;
+    font-family: sans-serif;
+}
+#output {
+    padding: 10px;
+    border: solid 5px #f15785;
+    background-color: white;
+    padding: 5px 10px;
