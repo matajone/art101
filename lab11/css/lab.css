@@ -8,10 +8,6 @@ body {
     background-color: rgb(255, 213, 220);
     border: solid 5px rgb(216, 120, 162);
 }
-
-p {
-    font-family: sans-serif;
-}
 #output {
     position: relative;
     display: flex;
@@ -27,6 +23,9 @@ p {
     font-weight: bold;
     text-align: center;
   }
+p {
+    font-family: sans-serif;
+}
 .namebadge {
     width: 500px;
 }
