@@ -1,0 +1,36 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(187, 187, 237);
+}
+
+#content {
+    padding: 30px;
+    background-color: rgb(255, 213, 220);
+    border: solid 5px rgb(216, 120, 162);
+}
+
+p {
+    font-family: sans-serif;
+}
+#output {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    top: -220px;
+    height: 200px;
+    max-width: 460px;
+    margin-left: 20px;
+    word-wrap: break-word;
+    font-size: 80px;
+    line-height: 90%;
+    font-weight: bold;
+    text-align: center;
+  }
+.namebadge {
+    width: 500px;
+}
+.namebadge img {
+    width: 100%;
+    height: auto;
+}

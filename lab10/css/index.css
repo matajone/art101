@@ -26,3 +26,21 @@ body {
     border: solid 5px #f15785;
     background-color: white;
     padding: 5px 10px;
+}
+.text:nth-child(odd) {
+    text-align: left;
+  }
+  
+  .text:nth-child(odd) p {
+    background-color: rgb(233, 233, 233);
+    color: rgb(115, 92, 162);
+  }
+  
+  .text:nth-child(even) {
+    text-align: right;
+  }
+  
+  .text:nth-child(even) p {
+    background-color: #ff96b53; 
+    color: white;
+  }
