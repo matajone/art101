@@ -2,7 +2,7 @@
 //Author: Maile Jones with Help from Wes Modes
 //Created: 26 Nov 2023
 //
-
+function FizzBuzzBoom (){
 for(var index=1; index<=200; index++){
    var oneLongString , index ;
 
@@ -24,5 +24,5 @@ if (index % 105 == 0){
     oneLongString += index + '<br>'; 
 }
 }
-
+}
 $("#output").html(oneLongString);
