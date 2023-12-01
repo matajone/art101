@@ -1,0 +1,12 @@
+
+
+body {
+    font-family: sans-serif;
+    background-color: rgb(187, 187, 237);
+}
+
+#content {
+    padding: 30px;
+    background-color: rgb(255, 213, 220);
+    border: solid 5px rgb(216, 120, 162);
+}

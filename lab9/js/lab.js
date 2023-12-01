@@ -26,3 +26,15 @@ $("#challenge").append("<button id='new-button'>cool jazz</button>");
 $("#new-button").click(
     function(){$("#challenge").html("JK THIS WAS SO HARD");}
 );
+
+$("#party-toggle button").click(function(){
+    if ($("body").hasClass("party")) {
+      $("body").removeClass("party");
+      $("#party-toggle button").html("Party");
+    }
+    else {
+      $("body").addClass("party");
+      $("#party-toggle button").html("Business");
+      debugger;
+    }
+  })
