@@ -10,3 +10,10 @@ body {
     background-color: rgb(255, 213, 220);
     border: solid 5px rgb(216, 120, 162);
 }
+#output {
+    padding: 10px;
+    border: solid 5px rgb(216, 120, 162);
+    background-color: rgb(255, 213, 220);
+    display: flex;
+    align-items: center;
+}
