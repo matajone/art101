@@ -4,7 +4,7 @@
 console.log("js loaded");
 
 $.ajax({
-    URL:"https://xkcd.com/5/info.0.json",
+    url:"https://xkcd.com/5/info.0.json",
     method: "GET",
     dataType: "json",
     data: {},
